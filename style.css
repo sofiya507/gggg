@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap);
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: inherit;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 60px;
+  background-color: black;
+  color: white;
+}
+.market {
+  display: flex;
+  gap: 60px;
+  align-items: center;
+}
+.product {
+  display: flex;
+  gap: 40px;
+}
+input {
+  padding: 8px 15px;
+}
+.bkk {
+  background-image: url(./images/slider2\ 1.png);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.more {
+  color: white;
+}
+
+h1 {
+  padding-top: 200px;
+  padding-left: 70px;
+  width: 500px;
+  font-size: 50px;
+}
+.buy {
+  margin-left: 70px;
+  padding: 15px 30px;
+  background-color: #76b900;
+  color: black;
+  font-weight: 900;
+}
+.and {
+  text-align: center;
+  color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 50px;
+}
+.desktops {
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+  line-height: 50px;
+  padding-bottom: 50px;
+}
+.desktops1 {
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+  line-height: 50px;
+  padding-bottom: 50px;
+  margin-right: 70px;
+}
+.now1 {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.now2 {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.now3 {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.now4 {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.shop {
+  padding-left: 15px;
+}
+.cards {
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.notworking {
+  font-size: 50px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.computer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  padding-bottom: 50px;
+}
+.deep {
+  color: #67b900;
+  font-size: 50px;
+  width: 500px;
+  padding-bottom: 60px;
+}
+.solve {
+  width: 400px;
+  font-weight: 700;
+}
+.get {
+  color: black;
+  background-color: #76b900;
+  padding: 8px 20px;
+  font-weight: 700;
+  border: none;
+  margin-top: 50px;
+}
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px 50px;
+}
+h4{
+    color: #666666;
+}
